@@ -1,0 +1,8877 @@
+[
+  {
+    "text": "Elegant white top crafted from cotton fabric featuring a collared, short sleeve, knee length length and embroidery detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 153,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 79,
+        "label": "sleeve"
+      },
+      {
+        "start": 81,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black shirt crafted from cotton fabric featuring a round neck, sleeveless, knee length length and lace detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 94,
+        "label": "length"
+      },
+      {
+        "start": 106,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red jumpsuit crafted from linen fabric featuring a keyhole neck, full sleeve, midi length and none detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white jumpsuit crafted from silk fabric featuring a boat neck, short sleeve, midi length and sequins detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple top crafted from georgette fabric featuring a sweetheart neck, full sleeve, midi length and none detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 150,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 76,
+        "label": "neckline"
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "label": "sleeve"
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white dress crafted from polyester fabric featuring a collared, puff sleeve, midi length and lace detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green co-ord set crafted from silk fabric featuring a v-neck, short sleeve, mini length and ruffles detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white kurti crafted from rayon fabric featuring a sweetheart neck, half sleeve, knee length length and beads detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 142,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 99,
+        "label": "length"
+      },
+      {
+        "start": 111,
+        "end": 116,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink dress crafted from rayon fabric featuring a keyhole neck, three-quarter sleeve, midi length and lace detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 139,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 113,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue tunic crafted from cotton fabric featuring a sweetheart neck, three-quarter sleeve, midi length and sequins detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 146,
+        "end": 153,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 95,
+        "label": "sleeve"
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "label": "length"
+      },
+      {
+        "start": 113,
+        "end": 120,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green kurti crafted from denim fabric featuring a halter neck, puff sleeve, maxi length and embroidery detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue kurti crafted from silk fabric featuring a halter neck, full sleeve, maxi length and printed detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow top crafted from polyester fabric featuring a round neck, sleeveless, knee length length and embroidery detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 144,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 118,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white gown crafted from chiffon fabric featuring a keyhole neck, full sleeve, midi length and none detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black gown crafted from polyester fabric featuring a collared, three-quarter sleeve, knee length length and applique detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 150,
+        "end": 156,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 104,
+        "label": "length"
+      },
+      {
+        "start": 116,
+        "end": 124,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink kurti crafted from polyester fabric featuring a collared, puff sleeve, knee length length and embroidery detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 143,
+        "end": 151,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 117,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green shirt crafted from georgette fabric featuring a keyhole neck, sleeveless, mini length and printed detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 111,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red kurti crafted from linen fabric featuring a v-neck, sleeveless, maxi length and sequins detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 125,
+        "end": 131,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 62,
+        "label": "neckline"
+      },
+      {
+        "start": 64,
+        "end": 74,
+        "label": "sleeve"
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "label": "length"
+      },
+      {
+        "start": 92,
+        "end": 99,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue gown crafted from rayon fabric featuring a collared, full sleeve, maxi length and lace detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 125,
+        "end": 129,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 64,
+        "label": "neckline"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue shirt crafted from georgette fabric featuring a keyhole neck, full sleeve, maxi length and sequins detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 111,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black top crafted from georgette fabric featuring a round neck, full sleeve, knee length length and lace detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 151,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue gown crafted from linen fabric featuring a v-neck, sleeveless, midi length and sequins detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 125,
+        "end": 131,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 62,
+        "label": "neckline"
+      },
+      {
+        "start": 64,
+        "end": 74,
+        "label": "sleeve"
+      },
+      {
+        "start": 76,
+        "end": 80,
+        "label": "length"
+      },
+      {
+        "start": 92,
+        "end": 99,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple jumpsuit crafted from linen fabric featuring a boat neck, puff sleeve, maxi length and lace detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 136,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow jumpsuit crafted from polyester fabric featuring a v-neck, puff sleeve, maxi length and printed detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "fabric"
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white shirt crafted from cotton fabric featuring a v-neck, sleeveless, maxi length and printed detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 132,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 102,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green co-ord set crafted from linen fabric featuring a keyhole neck, short sleeve, maxi length and embroidery detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 143,
+        "end": 150,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 75,
+        "label": "neckline"
+      },
+      {
+        "start": 77,
+        "end": 89,
+        "label": "sleeve"
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 117,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black top crafted from polyester fabric featuring a keyhole neck, full sleeve, mini length and none detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow dress crafted from rayon fabric featuring a halter neck, three-quarter sleeve, maxi length and lace detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 92,
+        "label": "sleeve"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green jumpsuit crafted from chiffon fabric featuring a round neck, three-quarter sleeve, midi length and applique detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 147,
+        "end": 155,
+        "label": "silhouette"
+      },
+      {
+        "start": 36,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 95,
+        "label": "sleeve"
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "label": "length"
+      },
+      {
+        "start": 113,
+        "end": 121,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black tunic crafted from rayon fabric featuring a square neck, half sleeve, knee length length and none detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white kurti crafted from cotton fabric featuring a keyhole neck, full sleeve, knee length length and none detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 139,
+        "end": 145,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black top crafted from polyester fabric featuring a square neck, three-quarter sleeve, mini length and lace detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 154,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 93,
+        "label": "sleeve"
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "label": "length"
+      },
+      {
+        "start": 111,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green jumpsuit crafted from georgette fabric featuring a collared, short sleeve, midi length and lace detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 135,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "fabric"
+      },
+      {
+        "start": 65,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 109,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple top crafted from silk fabric featuring a keyhole neck, half sleeve, mini length and none detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue tunic crafted from linen fabric featuring a collared, short sleeve, midi length and sequins detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 130,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 79,
+        "label": "sleeve"
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "label": "length"
+      },
+      {
+        "start": 97,
+        "end": 104,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green top crafted from rayon fabric featuring a keyhole neck, full sleeve, midi length and none detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 134,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green shirt crafted from silk fabric featuring a v-neck, sleeveless, knee length length and beads detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "label": "neckline"
+      },
+      {
+        "start": 65,
+        "end": 75,
+        "label": "sleeve"
+      },
+      {
+        "start": 77,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black top crafted from linen fabric featuring a collared, full sleeve, maxi length and beads detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 126,
+        "end": 132,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 64,
+        "label": "neckline"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 100,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green kurti crafted from silk fabric featuring a round neck, sleeveless, midi length and embroidery detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 79,
+        "label": "sleeve"
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "label": "length"
+      },
+      {
+        "start": 97,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black tunic crafted from chiffon fabric featuring a round neck, sleeveless, mini length and embroidery detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black tunic crafted from chiffon fabric featuring a boat neck, sleeveless, midi length and printed detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue kurti crafted from linen fabric featuring a v-neck, half sleeve, maxi length and embroidery detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 130,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "label": "neckline"
+      },
+      {
+        "start": 65,
+        "end": 76,
+        "label": "sleeve"
+      },
+      {
+        "start": 78,
+        "end": 82,
+        "label": "length"
+      },
+      {
+        "start": 94,
+        "end": 104,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue gown crafted from chiffon fabric featuring a round neck, short sleeve, midi length and ruffles detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue co-ord set crafted from polyester fabric featuring a halter neck, sleeveless, maxi length and lace detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 145,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "fabric"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "neckline"
+      },
+      {
+        "start": 79,
+        "end": 89,
+        "label": "sleeve"
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 111,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow tunic crafted from silk fabric featuring a square neck, short sleeve, mini length and lace detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black top crafted from polyester fabric featuring a collared, half sleeve, maxi length and printed detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink tunic crafted from rayon fabric featuring a collared, sleeveless, mini length and ruffles detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 133,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 102,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black jumpsuit crafted from polyester fabric featuring a halter neck, full sleeve, knee length length and beads detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 145,
+        "end": 151,
+        "label": "silhouette"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "fabric"
+      },
+      {
+        "start": 65,
+        "end": 76,
+        "label": "neckline"
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "label": "sleeve"
+      },
+      {
+        "start": 91,
+        "end": 102,
+        "label": "length"
+      },
+      {
+        "start": 114,
+        "end": 119,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink top crafted from linen fabric featuring a sweetheart neck, three-quarter sleeve, mini length and printed detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 143,
+        "end": 149,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "fabric"
+      },
+      {
+        "start": 55,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 92,
+        "label": "sleeve"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 117,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red shirt crafted from silk fabric featuring a halter neck, half sleeve, maxi length and beads detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 133,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "fabric"
+      },
+      {
+        "start": 55,
+        "end": 66,
+        "label": "neckline"
+      },
+      {
+        "start": 68,
+        "end": 79,
+        "label": "sleeve"
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "label": "length"
+      },
+      {
+        "start": 97,
+        "end": 102,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black gown crafted from chiffon fabric featuring a boat neck, full sleeve, midi length and ruffles detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple co-ord set crafted from linen fabric featuring a halter neck, full sleeve, midi length and applique detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 145,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "fabric"
+      },
+      {
+        "start": 64,
+        "end": 75,
+        "label": "neckline"
+      },
+      {
+        "start": 77,
+        "end": 88,
+        "label": "sleeve"
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "label": "length"
+      },
+      {
+        "start": 106,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink top crafted from denim fabric featuring a boat neck, puff sleeve, mini length and beads detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 126,
+        "end": 133,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "fabric"
+      },
+      {
+        "start": 55,
+        "end": 64,
+        "label": "neckline"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 100,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black shirt crafted from silk fabric featuring a square neck, short sleeve, knee length length and none detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 144,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple jumpsuit crafted from polyester fabric featuring a keyhole neck, three-quarter sleeve, knee length length and ruffles detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 158,
+        "end": 162,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "fabric"
+      },
+      {
+        "start": 66,
+        "end": 78,
+        "label": "neckline"
+      },
+      {
+        "start": 80,
+        "end": 100,
+        "label": "sleeve"
+      },
+      {
+        "start": 102,
+        "end": 113,
+        "label": "length"
+      },
+      {
+        "start": 125,
+        "end": 132,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red co-ord set crafted from rayon fabric featuring a round neck, sleeveless, maxi length and lace detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink co-ord set crafted from linen fabric featuring a v-neck, three-quarter sleeve, knee length length and applique detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 149,
+        "end": 155,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 90,
+        "label": "sleeve"
+      },
+      {
+        "start": 92,
+        "end": 103,
+        "label": "length"
+      },
+      {
+        "start": 115,
+        "end": 123,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green shirt crafted from denim fabric featuring a boat neck, puff sleeve, maxi length and applique detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green shirt crafted from denim fabric featuring a square neck, half sleeve, maxi length and sequins detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red shirt crafted from georgette fabric featuring a sweetheart neck, full sleeve, mini length and embroidery detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 142,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 75,
+        "label": "neckline"
+      },
+      {
+        "start": 77,
+        "end": 88,
+        "label": "sleeve"
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "label": "length"
+      },
+      {
+        "start": 106,
+        "end": 116,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink co-ord set crafted from rayon fabric featuring a square neck, sleeveless, maxi length and ruffles detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow co-ord set crafted from cotton fabric featuring a square neck, three-quarter sleeve, maxi length and none detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 146,
+        "end": 152,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "label": "fabric"
+      },
+      {
+        "start": 65,
+        "end": 76,
+        "label": "neckline"
+      },
+      {
+        "start": 78,
+        "end": 98,
+        "label": "sleeve"
+      },
+      {
+        "start": 100,
+        "end": 104,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple shirt crafted from georgette fabric featuring a collared, three-quarter sleeve, maxi length and lace detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 93,
+        "label": "sleeve"
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "label": "length"
+      },
+      {
+        "start": 111,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow kurti crafted from chiffon fabric featuring a keyhole neck, sleeveless, maxi length and printed detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow kurti crafted from rayon fabric featuring a round neck, three-quarter sleeve, mini length and sequins detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 142,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 116,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue co-ord set crafted from rayon fabric featuring a round neck, half sleeve, maxi length and printed detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white co-ord set crafted from georgette fabric featuring a halter neck, half sleeve, maxi length and beads detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "fabric"
+      },
+      {
+        "start": 67,
+        "end": 78,
+        "label": "neckline"
+      },
+      {
+        "start": 80,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black shirt crafted from cotton fabric featuring a sweetheart neck, short sleeve, mini length and none detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 88,
+        "label": "sleeve"
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white shirt crafted from cotton fabric featuring a boat neck, short sleeve, knee length length and applique detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green top crafted from silk fabric featuring a sweetheart neck, short sleeve, mini length and embroidery detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "fabric"
+      },
+      {
+        "start": 55,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue top crafted from silk fabric featuring a halter neck, three-quarter sleeve, knee length length and sequins detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 145,
+        "end": 151,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "label": "fabric"
+      },
+      {
+        "start": 54,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 100,
+        "label": "length"
+      },
+      {
+        "start": 112,
+        "end": 119,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white tunic crafted from polyester fabric featuring a round neck, half sleeve, maxi length and printed detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple kurti crafted from chiffon fabric featuring a keyhole neck, sleeveless, maxi length and printed detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow gown crafted from rayon fabric featuring a collared, full sleeve, maxi length and applique detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "label": "neckline"
+      },
+      {
+        "start": 68,
+        "end": 79,
+        "label": "sleeve"
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "label": "length"
+      },
+      {
+        "start": 97,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple jumpsuit crafted from linen fabric featuring a v-neck, half sleeve, maxi length and lace detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 135,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 103,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue tunic crafted from cotton fabric featuring a keyhole neck, half sleeve, knee length length and applique detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 142,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 116,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue top crafted from georgette fabric featuring a collared, full sleeve, midi length and none detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 133,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple co-ord set crafted from chiffon fabric featuring a keyhole neck, full sleeve, knee length length and applique detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 150,
+        "end": 157,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "fabric"
+      },
+      {
+        "start": 66,
+        "end": 78,
+        "label": "neckline"
+      },
+      {
+        "start": 80,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 104,
+        "label": "length"
+      },
+      {
+        "start": 116,
+        "end": 124,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green tunic crafted from polyester fabric featuring a collared, short sleeve, maxi length and lace detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple gown crafted from georgette fabric featuring a halter neck, puff sleeve, midi length and printed detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 111,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white kurti crafted from silk fabric featuring a square neck, sleeveless, knee length length and printed detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue gown crafted from linen fabric featuring a keyhole neck, half sleeve, midi length and sequins detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green dress crafted from georgette fabric featuring a boat neck, half sleeve, mini length and embroidery detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 145,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black gown crafted from silk fabric featuring a boat neck, puff sleeve, maxi length and sequins detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 135,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 78,
+        "label": "sleeve"
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "label": "length"
+      },
+      {
+        "start": 96,
+        "end": 103,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green co-ord set crafted from denim fabric featuring a keyhole neck, half sleeve, knee length length and none detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 143,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 75,
+        "label": "neckline"
+      },
+      {
+        "start": 77,
+        "end": 88,
+        "label": "sleeve"
+      },
+      {
+        "start": 90,
+        "end": 101,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red kurti crafted from polyester fabric featuring a halter neck, three-quarter sleeve, mini length and none detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 154,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 93,
+        "label": "sleeve"
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow co-ord set crafted from polyester fabric featuring a square neck, sleeveless, maxi length and lace detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 139,
+        "end": 144,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "fabric"
+      },
+      {
+        "start": 68,
+        "end": 79,
+        "label": "neckline"
+      },
+      {
+        "start": 81,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 113,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue shirt crafted from silk fabric featuring a halter neck, half sleeve, mini length and sequins detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 135,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red dress crafted from polyester fabric featuring a boat neck, short sleeve, knee length length and sequins detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green gown crafted from denim fabric featuring a keyhole neck, half sleeve, mini length and lace detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 130,
+        "end": 136,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 104,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white shirt crafted from polyester fabric featuring a square neck, half sleeve, knee length length and ruffles detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 144,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 99,
+        "label": "length"
+      },
+      {
+        "start": 111,
+        "end": 118,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green gown crafted from silk fabric featuring a boat neck, sleeveless, mini length and embroidery detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green co-ord set crafted from polyester fabric featuring a keyhole neck, puff sleeve, midi length and ruffles detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 143,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "fabric"
+      },
+      {
+        "start": 67,
+        "end": 79,
+        "label": "neckline"
+      },
+      {
+        "start": 81,
+        "end": 92,
+        "label": "sleeve"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 117,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black top crafted from polyester fabric featuring a round neck, three-quarter sleeve, midi length and beads detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 145,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 92,
+        "label": "sleeve"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple co-ord set crafted from cotton fabric featuring a collared, full sleeve, mini length and embroidery detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 45,
+        "label": "fabric"
+      },
+      {
+        "start": 65,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple tunic crafted from rayon fabric featuring a halter neck, puff sleeve, maxi length and sequins detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink jumpsuit crafted from georgette fabric featuring a sweetheart neck, puff sleeve, mini length and embroidery detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 146,
+        "end": 152,
+        "label": "silhouette"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "fabric"
+      },
+      {
+        "start": 64,
+        "end": 79,
+        "label": "neckline"
+      },
+      {
+        "start": 81,
+        "end": 92,
+        "label": "sleeve"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 120,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white tunic crafted from silk fabric featuring a halter neck, full sleeve, mini length and applique detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow dress crafted from georgette fabric featuring a v-neck, three-quarter sleeve, mini length and applique detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 143,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 117,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue gown crafted from georgette fabric featuring a keyhole neck, puff sleeve, maxi length and none detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black shirt crafted from silk fabric featuring a keyhole neck, puff sleeve, maxi length and sequins detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue top crafted from silk fabric featuring a round neck, full sleeve, maxi length and sequins detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 136,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 34,
+        "label": "fabric"
+      },
+      {
+        "start": 54,
+        "end": 64,
+        "label": "neckline"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 102,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow co-ord set crafted from polyester fabric featuring a boat neck, three-quarter sleeve, midi length and beads detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 148,
+        "end": 152,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 48,
+        "label": "fabric"
+      },
+      {
+        "start": 68,
+        "end": 77,
+        "label": "neckline"
+      },
+      {
+        "start": 79,
+        "end": 99,
+        "label": "sleeve"
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "label": "length"
+      },
+      {
+        "start": 117,
+        "end": 122,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue kurti crafted from linen fabric featuring a keyhole neck, full sleeve, knee length length and ruffles detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 144,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green gown crafted from silk fabric featuring a halter neck, half sleeve, midi length and none detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink jumpsuit crafted from rayon fabric featuring a keyhole neck, full sleeve, maxi length and printed detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue jumpsuit crafted from georgette fabric featuring a square neck, puff sleeve, knee length length and ruffles detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 146,
+        "end": 150,
+        "label": "silhouette"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "fabric"
+      },
+      {
+        "start": 64,
+        "end": 75,
+        "label": "neckline"
+      },
+      {
+        "start": 77,
+        "end": 88,
+        "label": "sleeve"
+      },
+      {
+        "start": 90,
+        "end": 101,
+        "label": "length"
+      },
+      {
+        "start": 113,
+        "end": 120,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red co-ord set crafted from georgette fabric featuring a keyhole neck, puff sleeve, maxi length and ruffles detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "fabric"
+      },
+      {
+        "start": 65,
+        "end": 77,
+        "label": "neckline"
+      },
+      {
+        "start": 79,
+        "end": 90,
+        "label": "sleeve"
+      },
+      {
+        "start": 92,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple dress crafted from rayon fabric featuring a sweetheart neck, sleeveless, maxi length and sequins detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 111,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink jumpsuit crafted from chiffon fabric featuring a boat neck, sleeveless, maxi length and beads detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 35,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white shirt crafted from georgette fabric featuring a halter neck, half sleeve, maxi length and none detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple kurti crafted from linen fabric featuring a v-neck, three-quarter sleeve, mini length and sequins detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink tunic crafted from cotton fabric featuring a round neck, half sleeve, mini length and beads detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 130,
+        "end": 135,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 104,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red kurti crafted from rayon fabric featuring a square neck, full sleeve, maxi length and embroidery detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple gown crafted from chiffon fabric featuring a square neck, three-quarter sleeve, knee length length and lace detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 148,
+        "end": 161,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 93,
+        "label": "sleeve"
+      },
+      {
+        "start": 95,
+        "end": 106,
+        "label": "length"
+      },
+      {
+        "start": 118,
+        "end": 122,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white co-ord set crafted from silk fabric featuring a round neck, three-quarter sleeve, midi length and embroidery detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 148,
+        "end": 152,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 94,
+        "label": "sleeve"
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "label": "length"
+      },
+      {
+        "start": 112,
+        "end": 122,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green shirt crafted from silk fabric featuring a halter neck, puff sleeve, midi length and applique detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green gown crafted from denim fabric featuring a v-neck, short sleeve, maxi length and printed detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 134,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "label": "neckline"
+      },
+      {
+        "start": 65,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 102,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green shirt crafted from chiffon fabric featuring a collared, sleeveless, mini length and applique detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white dress crafted from linen fabric featuring a square neck, full sleeve, midi length and embroidery detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white gown crafted from denim fabric featuring a round neck, full sleeve, midi length and embroidery detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green kurti crafted from chiffon fabric featuring a boat neck, short sleeve, knee length length and printed detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple top crafted from denim fabric featuring a collared, puff sleeve, midi length and sequins detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 134,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 78,
+        "label": "sleeve"
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "label": "length"
+      },
+      {
+        "start": 96,
+        "end": 103,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow dress crafted from linen fabric featuring a halter neck, full sleeve, midi length and sequins detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink top crafted from polyester fabric featuring a keyhole neck, half sleeve, midi length and ruffles detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 135,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 109,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white co-ord set crafted from denim fabric featuring a round neck, full sleeve, midi length and lace detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green co-ord set crafted from chiffon fabric featuring a v-neck, short sleeve, mini length and none detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 45,
+        "label": "fabric"
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple tunic crafted from polyester fabric featuring a square neck, full sleeve, knee length length and ruffles detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 145,
+        "end": 158,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 100,
+        "label": "length"
+      },
+      {
+        "start": 112,
+        "end": 119,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow gown crafted from rayon fabric featuring a halter neck, puff sleeve, mini length and applique detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink top crafted from georgette fabric featuring a square neck, three-quarter sleeve, maxi length and lace detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 92,
+        "label": "sleeve"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white co-ord set crafted from georgette fabric featuring a round neck, three-quarter sleeve, midi length and lace detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 147,
+        "end": 153,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "fabric"
+      },
+      {
+        "start": 67,
+        "end": 77,
+        "label": "neckline"
+      },
+      {
+        "start": 79,
+        "end": 99,
+        "label": "sleeve"
+      },
+      {
+        "start": 101,
+        "end": 105,
+        "label": "length"
+      },
+      {
+        "start": 117,
+        "end": 121,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red shirt crafted from linen fabric featuring a round neck, sleeveless, midi length and lace detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 126,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 66,
+        "label": "neckline"
+      },
+      {
+        "start": 68,
+        "end": 78,
+        "label": "sleeve"
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "label": "length"
+      },
+      {
+        "start": 96,
+        "end": 100,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black gown crafted from linen fabric featuring a square neck, short sleeve, midi length and embroidery detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 149,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red dress crafted from rayon fabric featuring a collared, short sleeve, mini length and none detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 126,
+        "end": 134,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 64,
+        "label": "neckline"
+      },
+      {
+        "start": 66,
+        "end": 78,
+        "label": "sleeve"
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black kurti crafted from linen fabric featuring a sweetheart neck, sleeveless, knee length length and beads detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 147,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white co-ord set crafted from polyester fabric featuring a v-neck, three-quarter sleeve, maxi length and printed detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 146,
+        "end": 152,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "fabric"
+      },
+      {
+        "start": 67,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 95,
+        "label": "sleeve"
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "label": "length"
+      },
+      {
+        "start": 113,
+        "end": 120,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple jumpsuit crafted from cotton fabric featuring a collared, three-quarter sleeve, mini length and none detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 93,
+        "label": "sleeve"
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white tunic crafted from polyester fabric featuring a keyhole neck, puff sleeve, maxi length and sequins detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 144,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green co-ord set crafted from polyester fabric featuring a boat neck, half sleeve, midi length and ruffles detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "fabric"
+      },
+      {
+        "start": 67,
+        "end": 76,
+        "label": "neckline"
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "label": "sleeve"
+      },
+      {
+        "start": 91,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple shirt crafted from polyester fabric featuring a v-neck, puff sleeve, knee length length and ruffles detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink jumpsuit crafted from georgette fabric featuring a keyhole neck, three-quarter sleeve, maxi length and sequins detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 149,
+        "end": 155,
+        "label": "silhouette"
+      },
+      {
+        "start": 35,
+        "end": 44,
+        "label": "fabric"
+      },
+      {
+        "start": 64,
+        "end": 76,
+        "label": "neckline"
+      },
+      {
+        "start": 78,
+        "end": 98,
+        "label": "sleeve"
+      },
+      {
+        "start": 100,
+        "end": 104,
+        "label": "length"
+      },
+      {
+        "start": 116,
+        "end": 123,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white top crafted from silk fabric featuring a sweetheart neck, short sleeve, maxi length and sequins detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 135,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "fabric"
+      },
+      {
+        "start": 55,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 109,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black tunic crafted from chiffon fabric featuring a v-neck, puff sleeve, midi length and embroidery detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "label": "neckline"
+      },
+      {
+        "start": 68,
+        "end": 79,
+        "label": "sleeve"
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "label": "length"
+      },
+      {
+        "start": 97,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green gown crafted from chiffon fabric featuring a sweetheart neck, puff sleeve, maxi length and none detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 135,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white tunic crafted from polyester fabric featuring a square neck, short sleeve, maxi length and lace detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 135,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 109,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black gown crafted from polyester fabric featuring a collared, full sleeve, knee length length and ruffles detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink dress crafted from rayon fabric featuring a collared, puff sleeve, midi length and printed detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 135,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 65,
+        "label": "neckline"
+      },
+      {
+        "start": 67,
+        "end": 78,
+        "label": "sleeve"
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "label": "length"
+      },
+      {
+        "start": 96,
+        "end": 103,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white shirt crafted from rayon fabric featuring a halter neck, sleeveless, knee length length and none detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 144,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 94,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green tunic crafted from chiffon fabric featuring a keyhole neck, half sleeve, knee length length and printed detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 143,
+        "end": 149,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 117,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green co-ord set crafted from cotton fabric featuring a boat neck, short sleeve, mini length and sequins detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 151,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 44,
+        "label": "fabric"
+      },
+      {
+        "start": 64,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white tunic crafted from denim fabric featuring a keyhole neck, three-quarter sleeve, midi length and lace detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 92,
+        "label": "sleeve"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black shirt crafted from polyester fabric featuring a collared, puff sleeve, maxi length and beads detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red gown crafted from cotton fabric featuring a round neck, short sleeve, midi length and lace detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 134,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 66,
+        "label": "neckline"
+      },
+      {
+        "start": 68,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 102,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red kurti crafted from georgette fabric featuring a v-neck, sleeveless, maxi length and ruffles detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 134,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "label": "neckline"
+      },
+      {
+        "start": 68,
+        "end": 78,
+        "label": "sleeve"
+      },
+      {
+        "start": 80,
+        "end": 84,
+        "label": "length"
+      },
+      {
+        "start": 96,
+        "end": 103,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow dress crafted from linen fabric featuring a sweetheart neck, sleeveless, maxi length and none detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow gown crafted from polyester fabric featuring a sweetheart neck, full sleeve, maxi length and ruffles detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 145,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 77,
+        "label": "neckline"
+      },
+      {
+        "start": 79,
+        "end": 90,
+        "label": "sleeve"
+      },
+      {
+        "start": 92,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink top crafted from chiffon fabric featuring a round neck, half sleeve, knee length length and applique detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 139,
+        "end": 152,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 113,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow gown crafted from polyester fabric featuring a square neck, three-quarter sleeve, maxi length and sequins detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 146,
+        "end": 152,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 95,
+        "label": "sleeve"
+      },
+      {
+        "start": 97,
+        "end": 101,
+        "label": "length"
+      },
+      {
+        "start": 113,
+        "end": 120,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue tunic crafted from linen fabric featuring a sweetheart neck, short sleeve, mini length and sequins detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 111,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue kurti crafted from rayon fabric featuring a square neck, sleeveless, knee length length and beads detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple tunic crafted from polyester fabric featuring a boat neck, puff sleeve, maxi length and applique detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 137,
+        "end": 145,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 111,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green gown crafted from rayon fabric featuring a keyhole neck, sleeveless, maxi length and applique detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black dress crafted from georgette fabric featuring a v-neck, half sleeve, maxi length and applique detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple dress crafted from silk fabric featuring a v-neck, puff sleeve, mini length and ruffles detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 134,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 64,
+        "label": "neckline"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 102,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black co-ord set crafted from linen fabric featuring a sweetheart neck, full sleeve, maxi length and embroidery detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 145,
+        "end": 149,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 78,
+        "label": "neckline"
+      },
+      {
+        "start": 80,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 119,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue co-ord set crafted from georgette fabric featuring a v-neck, full sleeve, knee length length and none detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 153,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 46,
+        "label": "fabric"
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow tunic crafted from rayon fabric featuring a sweetheart neck, half sleeve, midi length and ruffles detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green gown crafted from georgette fabric featuring a v-neck, half sleeve, mini length and ruffles detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 131,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 105,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green jumpsuit crafted from georgette fabric featuring a v-neck, full sleeve, knee length length and printed detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 142,
+        "end": 150,
+        "label": "silhouette"
+      },
+      {
+        "start": 36,
+        "end": 45,
+        "label": "fabric"
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 116,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 22,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red top crafted from polyester fabric featuring a collared, full sleeve, maxi length and printed detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 130,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 66,
+        "label": "neckline"
+      },
+      {
+        "start": 68,
+        "end": 79,
+        "label": "sleeve"
+      },
+      {
+        "start": 81,
+        "end": 85,
+        "label": "length"
+      },
+      {
+        "start": 97,
+        "end": 104,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue tunic crafted from georgette fabric featuring a round neck, half sleeve, midi length and embroidery detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 144,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green top crafted from linen fabric featuring a square neck, short sleeve, knee length length and sequins detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 139,
+        "end": 143,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 94,
+        "label": "length"
+      },
+      {
+        "start": 106,
+        "end": 113,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red kurti crafted from georgette fabric featuring a boat neck, full sleeve, maxi length and embroidery detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple gown crafted from denim fabric featuring a round neck, three-quarter sleeve, midi length and lace detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 146,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 90,
+        "label": "sleeve"
+      },
+      {
+        "start": 92,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink co-ord set crafted from linen fabric featuring a square neck, half sleeve, maxi length and lace detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue kurti crafted from silk fabric featuring a halter neck, full sleeve, maxi length and embroidery detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "fabric"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 86,
+        "label": "length"
+      },
+      {
+        "start": 98,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green top crafted from cotton fabric featuring a keyhole neck, half sleeve, mini length and sequins detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 138,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white shirt crafted from silk fabric featuring a keyhole neck, full sleeve, knee length length and ruffles detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 140,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "length"
+      },
+      {
+        "start": 107,
+        "end": 114,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink shirt crafted from georgette fabric featuring a round neck, three-quarter sleeve, mini length and ruffles detailing. Designed in a wrap silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 144,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 93,
+        "label": "sleeve"
+      },
+      {
+        "start": 95,
+        "end": 99,
+        "label": "length"
+      },
+      {
+        "start": 111,
+        "end": 118,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white tunic crafted from polyester fabric featuring a sweetheart neck, short sleeve, mini length and printed detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 142,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 77,
+        "label": "neckline"
+      },
+      {
+        "start": 79,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 116,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple co-ord set crafted from rayon fabric featuring a round neck, half sleeve, maxi length and embroidery detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 149,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "fabric"
+      },
+      {
+        "start": 64,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "label": "sleeve"
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow top crafted from polyester fabric featuring a round neck, half sleeve, knee length length and embroidery detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 145,
+        "end": 151,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 97,
+        "label": "length"
+      },
+      {
+        "start": 109,
+        "end": 119,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow co-ord set crafted from linen fabric featuring a collared, sleeveless, mini length and lace detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "fabric"
+      },
+      {
+        "start": 64,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red gown crafted from polyester fabric featuring a keyhole neck, full sleeve, mini length and lace detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 132,
+        "end": 145,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "neckline"
+      },
+      {
+        "start": 73,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white tunic crafted from cotton fabric featuring a sweetheart neck, short sleeve, maxi length and embroidery detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 142,
+        "end": 148,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "label": "fabric"
+      },
+      {
+        "start": 59,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 88,
+        "label": "sleeve"
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "label": "length"
+      },
+      {
+        "start": 106,
+        "end": 116,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink gown crafted from cotton fabric featuring a halter neck, three-quarter sleeve, mini length and ruffles detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 154,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 68,
+        "label": "neckline"
+      },
+      {
+        "start": 70,
+        "end": 90,
+        "label": "sleeve"
+      },
+      {
+        "start": 92,
+        "end": 96,
+        "label": "length"
+      },
+      {
+        "start": 108,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink kurti crafted from georgette fabric featuring a v-neck, half sleeve, knee length length and sequins detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 138,
+        "end": 144,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 41,
+        "label": "fabric"
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 80,
+        "label": "sleeve"
+      },
+      {
+        "start": 82,
+        "end": 93,
+        "label": "length"
+      },
+      {
+        "start": 105,
+        "end": 112,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple kurti crafted from georgette fabric featuring a sweetheart neck, puff sleeve, knee length length and applique detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 150,
+        "end": 156,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 78,
+        "label": "neckline"
+      },
+      {
+        "start": 80,
+        "end": 91,
+        "label": "sleeve"
+      },
+      {
+        "start": 93,
+        "end": 104,
+        "label": "length"
+      },
+      {
+        "start": 116,
+        "end": 124,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant black shirt crafted from polyester fabric featuring a keyhole neck, sleeveless, midi length and lace detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 74,
+        "label": "neckline"
+      },
+      {
+        "start": 76,
+        "end": 86,
+        "label": "sleeve"
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "label": "length"
+      },
+      {
+        "start": 104,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green dress crafted from georgette fabric featuring a collared, full sleeve, maxi length and applique detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 135,
+        "end": 141,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 42,
+        "label": "fabric"
+      },
+      {
+        "start": 62,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "sleeve"
+      },
+      {
+        "start": 85,
+        "end": 89,
+        "label": "length"
+      },
+      {
+        "start": 101,
+        "end": 109,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant white tunic crafted from silk fabric featuring a sweetheart neck, sleeveless, midi length and beads detailing. Designed in a bodycon silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 140,
+        "label": "silhouette"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 84,
+        "label": "sleeve"
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "label": "length"
+      },
+      {
+        "start": 102,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant purple co-ord set crafted from chiffon fabric featuring a keyhole neck, three-quarter sleeve, midi length and embroidery detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 154,
+        "end": 160,
+        "label": "silhouette"
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "label": "fabric"
+      },
+      {
+        "start": 66,
+        "end": 78,
+        "label": "neckline"
+      },
+      {
+        "start": 80,
+        "end": 100,
+        "label": "sleeve"
+      },
+      {
+        "start": 102,
+        "end": 106,
+        "label": "length"
+      },
+      {
+        "start": 118,
+        "end": 128,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 25,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant yellow kurti crafted from silk fabric featuring a v-neck, puff sleeve, maxi length and sequins detailing. Designed in a empire silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 128,
+        "end": 134,
+        "label": "silhouette"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "fabric"
+      },
+      {
+        "start": 58,
+        "end": 64,
+        "label": "neckline"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "sleeve"
+      },
+      {
+        "start": 79,
+        "end": 83,
+        "label": "length"
+      },
+      {
+        "start": 95,
+        "end": 102,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "color"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green co-ord set crafted from georgette fabric featuring a v-neck, sleeveless, midi length and beads detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 134,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 38,
+        "end": 47,
+        "label": "fabric"
+      },
+      {
+        "start": 67,
+        "end": 73,
+        "label": "neckline"
+      },
+      {
+        "start": 75,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 108,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink jumpsuit crafted from rayon fabric featuring a keyhole neck, half sleeve, maxi length and none detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "label": "fabric"
+      },
+      {
+        "start": 60,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 21,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant red dress crafted from cotton fabric featuring a v-neck, puff sleeve, maxi length and printed detailing. Designed in a shift silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 127,
+        "end": 132,
+        "label": "silhouette"
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "label": "neckline"
+      },
+      {
+        "start": 65,
+        "end": 76,
+        "label": "sleeve"
+      },
+      {
+        "start": 78,
+        "end": 82,
+        "label": "length"
+      },
+      {
+        "start": 94,
+        "end": 101,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "label": "color"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink tunic crafted from denim fabric featuring a round neck, short sleeve, mini length and lace detailing. Designed in a straight silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 129,
+        "end": 137,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 67,
+        "label": "neckline"
+      },
+      {
+        "start": 69,
+        "end": 81,
+        "label": "sleeve"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "length"
+      },
+      {
+        "start": 99,
+        "end": 103,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant pink co-ord set crafted from cotton fabric featuring a boat neck, puff sleeve, maxi length and printed detailing. Designed in a peplum silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 136,
+        "end": 142,
+        "label": "silhouette"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "label": "fabric"
+      },
+      {
+        "start": 63,
+        "end": 72,
+        "label": "neckline"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "sleeve"
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "label": "length"
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant blue top crafted from rayon fabric featuring a sweetheart neck, three-quarter sleeve, midi length and beads detailing. Designed in a fit and flare silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 141,
+        "end": 154,
+        "label": "silhouette"
+      },
+      {
+        "start": 30,
+        "end": 35,
+        "label": "fabric"
+      },
+      {
+        "start": 55,
+        "end": 70,
+        "label": "neckline"
+      },
+      {
+        "start": 72,
+        "end": 92,
+        "label": "sleeve"
+      },
+      {
+        "start": 94,
+        "end": 98,
+        "label": "length"
+      },
+      {
+        "start": 110,
+        "end": 115,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "color"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "category"
+      }
+    ]
+  },
+  {
+    "text": "Elegant green gown crafted from rayon fabric featuring a keyhole neck, full sleeve, maxi length and sequins detailing. Designed in a a-line silhouette for a stylish look.",
+    "entities": [
+      {
+        "start": 133,
+        "end": 139,
+        "label": "silhouette"
+      },
+      {
+        "start": 32,
+        "end": 37,
+        "label": "fabric"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "neckline"
+      },
+      {
+        "start": 71,
+        "end": 82,
+        "label": "sleeve"
+      },
+      {
+        "start": 84,
+        "end": 88,
+        "label": "length"
+      },
+      {
+        "start": 100,
+        "end": 107,
+        "label": "embellishment"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "color"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "category"
+      }
+    ]
+  }
+]
